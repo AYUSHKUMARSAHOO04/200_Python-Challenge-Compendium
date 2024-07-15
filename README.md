@@ -45,7 +45,7 @@ Python Pandas Exercises - 20 Challenges 🖥️ [ Dataset (CSV File) - 11 Challe
 Python Matplotlib Exercise - 20 Challenges 📈 [ Basic - 8 Challenges 📉 , Dataset (CSV File) - 12 Challenges 📈 ]
 
 
-Python Seaborn Dataset Exercise - Dataset (Excel File) - 19 Challenges 📊
+Python Seaborn Dataset Exercise - [ Dataset (Excel File) - 19 Challenges 📊 ] 
 
 
 Python Random Data Generation Exercise - 11 Challenges 🎲
