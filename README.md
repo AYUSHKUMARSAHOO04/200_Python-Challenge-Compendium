@@ -39,13 +39,7 @@ Python OOP Exercise - 18 Challenges 🏷️
 Python NumPy Exercise - 21 Challenges 🔢
 
 
-Python Pandas Exercises - 20 Challenges 🖥️
-
-
-Dataset (CSV File) - 11 Challenges 📈
-
-
-Dataset (Excel File) - 9 Challenges 📊
+Python Pandas Exercises - 20 Challenges 🖥️ [ Dataset (CSV File) - 11 Challenges 📈, Dataset (Excel File) - 9 Challenges 📊]
 
 
 Python Matplotlib Exercise - 20 Challenges 📈 [ Basic - 8 Challenges 📉 , Dataset (CSV File) - 12 Challenges 📈 ]
